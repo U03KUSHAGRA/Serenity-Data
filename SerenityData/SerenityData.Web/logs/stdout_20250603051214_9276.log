@@ -1,0 +1,404 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[63]
+      User profile is available. Using 'C:\Users\uakus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/ - -
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.Common.Pages.DashboardController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ChallengeResult[1]
+      Executing ChallengeResult with authentication schemes ().
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[12]
+      AuthenticationScheme: Cookies was challenged.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web) in 79.2218ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Account/Login/?ReturnUrl=%2F - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/ - - - 302 - - 1587.1988ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Login(System.String) on controller SerenityData.Membership.Pages.AccountController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/Membership/Account/AccountLogin.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/Membership/Account/AccountLogin.cshtml executed in 33776.8275ms.
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/font-open-sans.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/font-awesome.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web) in 33897.3437ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/bootstrap/css/bootstrap.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/css/select2.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/fonts/open-sans/open-sans.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/toastr.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Account/Login/?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 34147.8807ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/toastr.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\toastr.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/css/select2.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\css\select2.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/fonts/open-sans/open-sans.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\fonts\open-sans\open-sans.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/font-open-sans.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\font-open-sans.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/toastr.css?v=2025060310 - - - 200 6881 text/css 183.1595ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/font-open-sans.css?v=2025060310 - - - 200 951 text/css 283.8715ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/slick.grid.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/css/select2.css?v=2025060310 - - - 200 19454 text/css 256.6510ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/font-awesome.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\font-awesome.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/bootstrap/css/bootstrap.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\bootstrap\css\bootstrap.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/fonts/open-sans/open-sans.css?v=2025060310 - - - 200 1212 text/css 248.8320ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Extensions/index.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/nprogress/nprogress.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Content/serenity/serenity.css?v=ciFfzEhSrHDgMkFgGsQW_Q - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/nprogress/nprogress.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\nprogress\nprogress.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/jquery.fileupload.css?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/font-awesome.css?v=2025060310 - - - 200 37414 text/css 378.0463ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/nprogress/nprogress.css?v=2025060310 - - - 200 1458 text/css 84.0831ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/bootstrap/css/bootstrap.css?v=2025060310 - - - 200 205441 text/css 375.2248ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Content/site/common-theme.css?v=0e062tHP9r2GlGCcPDWFQA - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/slick.grid.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\slick.grid.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Extensions/index.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.extensions\6.0.3\staticwebassets\index.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/colorbox/jquery.colorbox.css?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Content/serenity/serenity.css'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Content\serenity\serenity.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Content/site/common-theme.css'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Content\site\common-theme.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/jquery.fileupload.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\jquery.fileupload.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/slick.grid.css?v=2025060310 - - - 200 4023 text/css 187.2847ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Content/serenity/serenity.css?v=ciFfzEhSrHDgMkFgGsQW_Q - - - 200 97427 text/css 159.0733ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Extensions/index.css?v=2025060310 - - - 200 479 text/css 189.2527ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Content/site/site.css?v=_8Kbz8FZtk57SuA397nuyw - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Content/auth-theme.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/nprogress/nprogress.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/jquery.fileupload.css?v=2025060310 - - - 200 655 text/css 107.5237ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Content/site/common-theme.css?v=0e062tHP9r2GlGCcPDWFQA - - - 200 6600 text/css 99.4581ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-3.5.1.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-ui.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Content/site/site.css'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Content\site\site.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Content/site/site.css?v=_8Kbz8FZtk57SuA397nuyw - - - 200 2180 text/css 73.7691ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-ui-i18n.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Content/auth-theme.css'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Content\auth-theme.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/nprogress/nprogress.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\nprogress\nprogress.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Content/auth-theme.css - - - 200 4476 text/css 169.1694ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Content/colorbox/jquery.colorbox.css'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Content\colorbox\jquery.colorbox.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.validate.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/nprogress/nprogress.js?v=2025060310 - - - 200 11565 application/javascript 172.5521ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.blockUI.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Content/colorbox/jquery.colorbox.css?v=2025060310 - - - 200 3899 text/css 267.5522ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.cookie.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery-ui-i18n.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery-ui-i18n.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.blockUI.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.blockUI.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.json.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-ui-i18n.js?v=2025060310 - - - 200 76075 application/javascript 173.9087ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.blockUI.js?v=2025060310 - - - 200 19030 application/javascript 78.7111ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/bootstrap/js/bootstrap.bundle.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery-3.5.1.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery-3.5.1.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.cookie.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.cookie.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.validate.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.validate.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.cookie.js?v=2025060310 - - - 200 3121 application/javascript 128.5135ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.validate.js?v=2025060310 - - - 200 50963 application/javascript 163.3620ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/select2.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/toastr.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.json.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.json.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-3.5.1.js?v=2025060310 - - - 200 287630 application/javascript 352.2774ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.json.js?v=2025060310 - - - 200 3585 application/javascript 118.3878ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/preact/preact.umd.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Scripts/Serenity.CoreLib.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery-ui.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery-ui.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/toastr.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\toastr.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/toastr.js?v=2025060310 - - - 200 15319 application/javascript 93.2801ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Extensions/index.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/preact/preact.umd.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\preact\preact.umd.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery-ui.js?v=2025060310 - - - 200 408577 application/javascript 455.6295ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.autoNumeric.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/preact/preact.umd.js?v=2025060310 - - - 200 10146 application/javascript 110.8897ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.colorbox.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/select2.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\select2.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Extensions/index.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.extensions\6.0.3\staticwebassets\index.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/select2.js?v=2025060310 - - - 200 147437 application/javascript 208.9019ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Extensions/index.js?v=2025060310 - - - 200 60779 application/javascript 113.3874ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.dialogextendQ.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.event.drag.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.autoNumeric.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.autoNumeric.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.colorbox.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.colorbox.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.autoNumeric.js?v=2025060310 - - - 200 63683 application/javascript 147.2039ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.maskedinput.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.scrollintoview.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.colorbox.js?v=2025060310 - - - 200 28397 application/javascript 147.8229ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.dialogextendQ.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.dialogextendQ.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.event.drag.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.event.drag.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.dialogextendQ.js?v=2025060310 - - - 200 7194 application/javascript 124.1074ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/sortable.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.event.drag.js?v=2025060310 - - - 200 18086 application/javascript 134.4786ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.core.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.maskedinput.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.maskedinput.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.scrollintoview.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.scrollintoview.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.maskedinput.js?v=2025060310 - - - 200 10317 application/javascript 107.3368ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.scrollintoview.js?v=2025060310 - - - 200 6925 application/javascript 110.5490ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.grid.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.groupitemmetadataprovider.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/sortable.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\sortable.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/slick.core.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\slick.core.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/bootstrap/js/bootstrap.bundle.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\bootstrap\js\bootstrap.bundle.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.core.js?v=2025060310 - - - 200 17368 application/javascript 121.6410ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.autotooltips.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/sortable.js?v=2025060310 - - - 200 29407 application/javascript 145.7934ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.headerbuttons.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Scripts/Serenity.CoreLib.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.scripts\6.0.3\staticwebassets\Serenity.CoreLib.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/bootstrap/js/bootstrap.bundle.js?v=2025060310 - - - 200 209719 application/javascript 595.1144ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/slick.groupitemmetadataprovider.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\slick.groupitemmetadataprovider.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowselectionmodel.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.groupitemmetadataprovider.js?v=2025060310 - - - 200 4965 application/javascript 128.1748ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowmovemanager.js?v=2025060310 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/slick.grid.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\slick.grid.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.autotooltips.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\Plugins\slick.autotooltips.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.headerbuttons.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\Plugins\slick.headerbuttons.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.headerbuttons.js?v=2025060310 - - - 200 5126 application/javascript 110.0553ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.autotooltips.js?v=2025060310 - - - 200 2577 application/javascript 125.1741ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.fileupload.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/slick.grid.js?v=2025060310 - - - 200 191918 application/javascript 209.9664ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.iframe-transport.js?v=2025060310 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Scripts/mousetrap.js?v=16J9599Qp4AfWQqjgDra6Q - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Scripts/Serenity.CoreLib.js?v=2025060310 - - - 200 820912 application/javascript 592.0330ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Scripts/site/common-theme.js?v=Mg6XMcAmMgEU9X8c1azwig - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowselectionmodel.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\Plugins\slick.rowselectionmodel.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowmovemanager.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\SlickGrid\Plugins\slick.rowmovemanager.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowselectionmodel.js?v=2025060310 - - - 200 5138 application/javascript 134.0692ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Scripts/site/SerenityData.Web.js?v=KvYZekP_EgeF0egw9zkRWQ - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/SlickGrid/Plugins/slick.rowmovemanager.js?v=2025060310 - - - 200 3654 application/javascript 143.4101ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Scripts/site/common-theme.js'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Scripts\site\common-theme.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=638845243940161144 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Scripts/site/common-theme.js?v=Mg6XMcAmMgEU9X8c1azwig - - - 200 6425 application/javascript 93.2253ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/FormBundle.js?v=638845243940190629 - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Scripts/mousetrap.js'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Scripts\mousetrap.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.fileupload.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.fileupload.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Serenity.Assets/Scripts/jquery.iframe-transport.js'. Physical path: 'C:\Users\uakus\.nuget\packages\serenity.assets\6.0.2\staticwebassets\Scripts\jquery.iframe-transport.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Scripts/mousetrap.js?v=16J9599Qp4AfWQqjgDra6Q - - - 200 33213 application/javascript 153.9522ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Scripts/site/SerenityData.Web.js'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Scripts\site\SerenityData.Web.js'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/TemplateBundle.js?v=638845243940191160 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.iframe-transport.js?v=2025060310 - - - 200 10612 application/javascript 190.5419ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/LocalText.Site.en-US.Public.js?v=638845243940291021 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Serenity.Assets/Scripts/jquery.fileupload.js?v=2025060310 - - - 200 61368 application/javascript 204.5637ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Scripts/site/SerenityData.Web.js?v=KvYZekP_EgeF0egw9zkRWQ - - - 200 510211 application/javascript 186.8655ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 51.0060ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/TemplateBundle.js?v=638845243940191160 - - - 200 - text/javascript;+charset=utf-8 114.3650ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/LocalText.Site.en-US.Public.js?v=638845243940291021 - - - 200 - text/javascript;+charset=utf-8 178.3692ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=638845243940161144 - - - 200 - text/javascript;+charset=utf-8 438.9523ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/FormBundle.js?v=638845243940190629 - - - 200 - text/javascript;+charset=utf-8 451.7285ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Content/background.png - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/favicon-512x512.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/favicon-512x512.png'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\favicon-512x512.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/favicon-512x512.png - - - 200 20659 image/png 56.9212ms
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 27.607ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 173.8591ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/offline.html - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.OfflineAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Offline", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] OfflineAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of text/html
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.OfflineAsync (WebEssentials.AspNetCore.Pwa) in 15.0142ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.OfflineAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/offline.html - - - 200 456 text/html 82.3649ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 409.8150ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/Content/background.png'. Physical path: 'C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web\wwwroot\Content\background.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Content/background.png - - - 200 36071927 image/png 815.7217ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/favicon.ico - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/manifest.webmanifest - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.WebManifest (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/favicon.ico - - - 404 - - 25.2555ms
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "WebManifest", controller = "Pwa"}. Executing

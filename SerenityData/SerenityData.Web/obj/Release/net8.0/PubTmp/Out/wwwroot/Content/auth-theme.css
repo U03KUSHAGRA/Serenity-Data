@@ -1,0 +1,159 @@
+
+    body, html {
+        margin: 0;
+        height: 100%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #eee;
+        background: url('/Content/background.png') no-repeat center center fixed;
+        background-size: cover;
+        overflow: hidden;
+    }
+
+    .s-full-page {
+        position: relative;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        /* no background here, using body background */
+    }
+
+        /* Dark overlay over background image */
+        .s-full-page::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.6); /* adjust opacity for darkness */
+            z-index: 0;
+        }
+
+    #LoginPanel {
+        position: relative;
+        z-index: 1;
+        background: rgba(30, 30, 30, 0.7);
+        border-radius: 16px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.9);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        border: 1px solid rgba(80, 80, 80, 0.4);
+        padding: 3rem 2.5rem;
+        width: 380px;
+        max-width: 95vw;
+        color: #eee;
+        animation: pulseGlow 3s ease-in-out infinite alternate;
+    }
+
+    a {
+        text-decoration: none;
+        color: #4eaaff;
+        transition: color 0.3s ease;
+    }
+
+        a:hover {
+            color: #7cc1ff;
+        }
+
+    #LoginPanel *,
+    #LoginPanel .field,
+    #LoginPanel .caption,
+    #LoginPanel label,
+    #LoginPanel input,
+    #LoginPanel button {
+        color: #eee !important;
+        background-color: transparent !important;
+    }
+
+        #LoginPanel input[type="text"],
+        #LoginPanel input[type="password"] {
+            background-color: rgba(255, 255, 255, 0.05) !important;
+            border: 1px solid #444 !important;
+            border-radius: 8px !important;
+            padding: 0.5rem 1rem !important;
+            font-size: 1rem;
+            width: 100%;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease, background-color 0.3s ease;
+            margin-top: -4px; /* ⬅️ Shift input boxes up */
+        }
+
+        #LoginPanel input:focus {
+            border-color: #4eaaff !important;
+            background-color: rgba(255, 255, 255, 0.1) !important;
+            box-shadow: 0 0 8px 2px #4eaaff99 !important;
+        }
+
+    #LoginPanel button {
+        background-color: #4eaaff !important;
+        border: none !important;
+        border-radius: 8px !important;
+        padding: 0.75rem 1.25rem !important;
+        color: #fff !important;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        width: 100%;
+    }
+
+        #LoginPanel button:hover {
+            background-color: #7cc1ff !important;
+        }
+
+    .alert {
+        background: rgba(20, 20, 20, 0.85);
+        border-radius: 12px;
+        border: 1px solid rgba(100, 100, 100, 0.3);
+        color: #f1f1f1;
+        padding: 1rem 1.25rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .alert-info {
+        border-left: 4px solid #4eaaff;
+    }
+
+    .btn-close {
+        filter: brightness(80%) invert(1);
+    }
+
+    #LoginPanel .field input[type="email"],
+#LoginPanel input[type="email"] {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid #444 !important;
+    border-radius: 8px !important;
+    padding: 0.5rem 1rem !important;
+    font-size: 1rem;
+    width: 100% !important;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+    margin-top: -4px; /* align vertically */
+    display: block !important;
+}
+
+#LoginPanel label {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+    color: #eee !important;
+}
+
+#LoginPanel .field {
+    margin-bottom: 1rem;
+}
+
+#ForgotPasswordPanel input[type="email"] {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid #444 !important;
+    border-radius: 8px !important;
+    padding: 0.5rem 1rem !important;
+    font-size: 1rem;
+    width: 100% !important;
+    box-sizing: border-box;
+    color: #eee !important;
+    margin-top: -px;
+    display: block;
+}
+

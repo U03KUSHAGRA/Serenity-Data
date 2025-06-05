@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Dawaighar.Web
+build_property.RootNamespace = Dawaighar.Web
+build_property.ProjectDir = D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Administration/Language/LanguageIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxMYW5ndWFnZVxMYW5ndWFnZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Administration/Role/RoleIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxSb2xlXFJvbGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Administration/Translation/TranslationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxUcmFuc2xhdGlvblxUcmFuc2xhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Administration/User/UserIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxVc2VyXFVzZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Common/Dashboard/DashboardIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xDb21tb25cRGFzaGJvYXJkXERhc2hib2FyZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/Banner/BannerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQmFubmVyXEJhbm5lckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/BranchAreas/BranchAreasIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQnJhbmNoQXJlYXNcQnJhbmNoQXJlYXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/BranchStock/BranchStockIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQnJhbmNoU3RvY2tcQnJhbmNoU3RvY2tJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/Branch/BranchIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQnJhbmNoXEJyYW5jaEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ChemicalComposition/ChemicalCompositionIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ2hlbWljYWxDb21wb3NpdGlvblxDaGVtaWNhbENvbXBvc2l0aW9uSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CityArea/CityAreaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ2l0eUFyZWFcQ2l0eUFyZWFJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/City/CityIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ2l0eVxDaXR5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CustomerAddresses/CustomerAddressesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJBZGRyZXNzZXNcQ3VzdG9tZXJBZGRyZXNzZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CustomerDevices/CustomerDevicesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJEZXZpY2VzXEN1c3RvbWVyRGV2aWNlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CustomerOrderDetail/CustomerOrderDetailIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJPcmRlckRldGFpbFxDdXN0b21lck9yZGVyRGV0YWlsSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CustomerOrder/CustomerOrderIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJPcmRlclxDdXN0b21lck9yZGVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/CustomerPushNotification/CustomerPushNotificationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJQdXNoTm90aWZpY2F0aW9uXEN1c3RvbWVyUHVzaE5vdGlmaWNhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/Customer/CustomerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcQ3VzdG9tZXJcQ3VzdG9tZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ItemCategory/ItemCategoryIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcSXRlbUNhdGVnb3J5XEl0ZW1DYXRlZ29yeUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ItemType/ItemTypeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcSXRlbVR5cGVcSXRlbVR5cGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ItemUploadImageProcess/ItemUploadImageProcessIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcSXRlbVVwbG9hZEltYWdlUHJvY2Vzc1xJdGVtVXBsb2FkSW1hZ2VQcm9jZXNzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/Item/ItemIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcSXRlbVxJdGVtSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ManufacturingCompany/ManufacturingCompanyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcTWFudWZhY3R1cmluZ0NvbXBhbnlcTWFudWZhY3R1cmluZ0NvbXBhbnlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/PageConfiguration/PageConfigurationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcUGFnZUNvbmZpZ3VyYXRpb25cUGFnZUNvbmZpZ3VyYXRpb25JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/ProductType/ProductTypeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcUHJvZHVjdFR5cGVcUHJvZHVjdFR5cGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Dawaighar/State/StateIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xEYXdhaWdoYXJcU3RhdGVcU3RhdGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/AccountLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQWNjb3VudExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/ChangePassword/AccountChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQ2hhbmdlUGFzc3dvcmRcQWNjb3VudENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/ForgotPassword/AccountForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcRm9yZ290UGFzc3dvcmRcQWNjb3VudEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/ResetPassword/AccountResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxBY2NvdW50UmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/ResetPassword/AccountResetPasswordEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxBY2NvdW50UmVzZXRQYXNzd29yZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/SignUp/AccountActivateEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjY291bnRBY3RpdmF0ZUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/Account/SignUp/AccountSignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjY291bnRTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/Membership/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Modules/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Errors/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Errors/ValidationError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXFZhbGlkYXRpb25FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Shared/_LayoutHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Shared/_LayoutNoNavigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb05hdmlnYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Digisure/Project/New folder/ValinaProject/VanilaProject/VanilaProject.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

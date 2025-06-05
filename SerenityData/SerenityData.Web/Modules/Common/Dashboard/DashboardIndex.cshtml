@@ -1,0 +1,427 @@
+﻿@model SerenityData.Common.DashboardPageModel
+@inject Serenity.ITextLocalizer Localizer
+@inject Serenity.Abstractions.IUserRetrieveService UserRetriever
+@using Serenity
+@using Serenity.Web
+@using System.Net
+@using SerenityData.Administration;
+
+@{
+    ViewData["Title"] = "Dashboard";
+    ViewData["PageId"] = "Dashboard";
+    var user = User.GetUserDefinition<UserDefinition>(UserRetriever);
+}
+
+@section Head {
+    @Html.StyleBundle("Pages/Dashboard")
+    @Html.ScriptBundle("Pages/Dashboard")
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+}
+
+@section ContentHeader {
+    <h1>@Localizer.Get("Navigation.Dashboard")</h1>
+}
+
+<style>
+    .s-dashboard-card, .s-dashboard-card-sm {
+        margin-bottom: var(--bs-gutter-x);
+    }
+
+        .s-dashboard-card .card-header {
+            padding: 1rem;
+            border-bottom: none;
+            background-color: transparent;
+        }
+
+        .s-dashboard-card .card-body {
+            border-radius: 0 0 4px 4px;
+            padding: 1rem;
+        }
+
+        .s-dashboard-card .card-footer {
+            border-top-color: transparent;
+            background-color: transparent;
+            padding: 1rem;
+        }
+
+        .s-dashboard-card .card-title {
+            margin: 0;
+            font-size: 1.4rem;
+            color: var(--s-table-title);
+        }
+
+        .s-dashboard-card-sm .card-body {
+            padding: 1rem;
+            border-radius: 4px 4px 0 0;
+            margin: 1px;
+        }
+
+        .s-dashboard-card-sm .card-footer {
+            color: rgba(var(--s-bright-rgb), 0.8);
+            background-color: var(--bs-body-bg);
+            border-radius: 0 0 4px 4px;
+            border-top: none;
+            margin: 0 1px 1px 1px;
+            padding: 3px 0;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .s-dashboard-card-sm h3 {
+            font-size: 38px;
+            font-weight: bold;
+            margin: 0 0 10px 0;
+            white-space: nowrap;
+            padding: 0;
+        }
+
+        .s-dashboard-card-sm p {
+            font-size: 15px;
+        }
+
+            .s-dashboard-card-sm p > small {
+                display: block;
+                font-size: 13px;
+                margin-top: 5px;
+            }
+
+        .s-dashboard-card-sm .icon {
+            transition: all 0.3s linear;
+            position: absolute;
+            top: 13px;
+            color: #fff;
+            opacity: 0.9;
+            right: 10px;
+            font-size: 64px;
+        }
+
+        .s-dashboard-card-sm:hover .icon {
+            font-size: 70px;
+        }
+
+    .equal-height-row {
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: stretch;
+    }
+
+    .card-column {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 1rem;
+        flex: 1;
+    }
+
+        .card-column .card {
+            flex: 1;
+        }
+
+.chart-column {
+    flex: 0 0 50%;
+    max-width: 50%;
+    display: flex;
+    align-items: stretch;
+}
+
+.chart-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-wrapper canvas {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%; 
+
+</style>
+
+<div class="container-fluid">
+
+    @if (Convert.ToInt16(user.Id) == 1)
+    {
+        <!-- Admin layout: all cards and both charts -->
+        <div class="row equal-height-row">
+
+            <!-- Left column: first row of 3 cards -->
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/Suppliers")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm s-alt bg-info bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.Suppliers</h3>
+                            <p>Suppliers</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-truck"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/StockTransactions")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm bg-primary bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.StockTransactions</h3>
+                            <p>Stock Transactions</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-shopping-cart"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/Products")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm s-alt bg-success bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.Products</h3>
+                            <p>Products</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-tag"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Second row of 3 cards -->
+        <div class="row equal-height-row">
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/ActiveUsers")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm bg-warning bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.ActiveUsers</h3>
+                            <p>Active Users</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-user-plus"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/Software")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm s-alt bg-success bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.Software</h3>
+                            <p>Software</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-tag"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 card-column">
+                <a href="@Url.Content("~/SerenityData/StockNames")" style="text-decoration: none; color: inherit;">
+                    <div class="card s-dashboard-card-sm bg-primary bg-opacity-50">
+                        <div class="card-body">
+                            <h3>@Model.StockNames</h3>
+                            <p>Stock Names</p>
+                        </div>
+                        <div class="icon">
+                            <i class="fa fa-shopping-cart"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Both charts side by side -->
+        <div class="row equal-height-row">
+            <div class="col-lg-6 chart-column">
+                <div class="card s-dashboard-card chart-wrapper">
+                    <div class="card-header">
+                        <h5 class="card-title">Categories</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="categoriesChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 chart-column">
+                <div class="card s-dashboard-card chart-wrapper">
+                    <div class="card-header">
+                        <h5 class="card-title">Total Sales</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="salesChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    @if (Convert.ToInt16(user.Id) == 2)
+    {
+    <!-- Inventory layout with equal height -->
+    <div class="row equal-height-row">
+
+        <!-- Left column: stacked cards -->
+        <div class="col-lg-3 card-column">
+            <a href="@Url.Content("~/SerenityData/Suppliers")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm s-alt bg-info bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.Suppliers</h3>
+                        <p>Suppliers</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-truck"></i>
+                    </div>
+                </div>
+            </a>
+
+            <a href="@Url.Content("~/SerenityData/StockTransactions")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm bg-primary bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.StockTransactions</h3>
+                        <p>Stock Transactions</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-shopping-cart"></i>
+                    </div>
+                </div>
+            </a>
+
+            <a href="@Url.Content("~/SerenityData/Products")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm s-alt bg-success bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.Products</h3>
+                        <p>Products</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-tag"></i>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Right column: Chart -->
+        <div class="col-lg-7 chart-column">
+            <div class="card s-dashboard-card chart-wrapper">
+                <div class="card-header">
+                    <h5 class="card-title">Categories</h5>
+                </div>
+                <div class="card-body">
+                    <canvas id="categoriesChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+
+    @if (Convert.ToInt16(user.Id) == 3)
+    {
+    <!-- Analytics layout with equal height -->
+    <div class="row equal-height-row">
+
+        <!-- Cards column -->
+        <div class="col-lg-6 card-column">
+            <a href="@Url.Content("~/SerenityData/ActiveUsers")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm bg-warning bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.ActiveUsers</h3>
+                        <p>Active Users</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-user-plus"></i>
+                    </div>
+                </div>
+            </a>
+
+            <a href="@Url.Content("~/SerenityData/Software")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm s-alt bg-success bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.Software</h3>
+                        <p>Software</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-tag"></i>
+                    </div>
+                </div>
+            </a>
+
+            <a href="@Url.Content("~/SerenityData/StockNames")" style="text-decoration: none; color: inherit;">
+                <div class="card s-dashboard-card-sm bg-primary bg-opacity-50">
+                    <div class="card-body">
+                        <h3>@Model.StockNames</h3>
+                        <p>Stock Names</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-shopping-cart"></i>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Chart column -->
+        <div class="col-lg-6 chart-column">
+            <div class="card s-dashboard-card chart-wrapper">
+                <div class="card-header">
+                    <h5 class="card-title">Total Sales</h5>
+                </div>
+                <div class="card-body">
+                    <canvas id="salesChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+</div>
+
+<script>
+    $(function () {
+        // Load category data
+        $.getJSON('/DashboardData/CategoryData', function (data) {
+            const labels = data.map(x => x.Label);
+            const values = data.map(x => x.Value);
+
+            new Chart($('#categoriesChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: ['#36A2EB', '#FFCE56', '#4BC0C0']
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    }
+                }
+            });
+        });
+
+        // Load sales data
+        $.getJSON('/DashboardData/SalesData', function (data) {
+            const labels = data.map(x => x.Label);
+            const values = data.map(x => x.Value);
+
+            new Chart($('#salesChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+
+
+

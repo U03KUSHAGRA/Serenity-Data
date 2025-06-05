@@ -1,0 +1,184 @@
+{
+  "RootNamespace": "SerenityData",
+  "ServerTypings": {
+    "LocalTexts": true
+  },
+  "Restore": {
+    "Exclude": [
+      "/wwwroot/Scripts/serenity/Serenity.CoreLib*.*"
+    ]
+  },
+  "Connections": [
+    {
+      "Key": "SerenityData",
+      "Tables": [
+        {
+          "Tablename": "dbo.ActiveUsers",
+          "Identifier": "ActiveUsers",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Banner",
+          "Identifier": "Banner",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Branch",
+          "Identifier": "Branch",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.BranchAreas",
+          "Identifier": "BranchAreas",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.BranchStock",
+          "Identifier": "BranchStock",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Categories",
+          "Identifier": "Categories",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ChemicalComposition",
+          "Identifier": "ChemicalComposition",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.City",
+          "Identifier": "City",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.CityArea",
+          "Identifier": "CityArea",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Customer",
+          "Identifier": "Customer",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.CustomerAddresses",
+          "Identifier": "CustomerAddresses",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.CustomerDevices",
+          "Identifier": "CustomerDevices",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.CustomerOrder",
+          "Identifier": "CustomerOrder",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.CustomerOrderDetail",
+          "Identifier": "CustomerOrderDetail",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ITEM",
+          "Identifier": "Item",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ItemCategory",
+          "Identifier": "ItemCategory",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ItemType",
+          "Identifier": "ItemType",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ManufacturingCompany",
+          "Identifier": "ManufacturingCompany",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Products",
+          "Identifier": "Products",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ProductType",
+          "Identifier": "ProductType",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Software",
+          "Identifier": "Software",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.State",
+          "Identifier": "State",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.StockNames",
+          "Identifier": "StockNames",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.StockTransactions",
+          "Identifier": "StockTransactions",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Suppliers",
+          "Identifier": "Suppliers",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Tenants",
+          "Identifier": "Tenants",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.TotalSales",
+          "Identifier": "TotalSales",
+          "Module": "SerenityData",
+          "PermissionKey": "Administration:General"
+        }
+      ]
+    }
+  ],
+  "UpgradeInfo": {
+    "InitialType": "Community",
+    "InitialVersion": "6.0.3.0"
+  }
+}

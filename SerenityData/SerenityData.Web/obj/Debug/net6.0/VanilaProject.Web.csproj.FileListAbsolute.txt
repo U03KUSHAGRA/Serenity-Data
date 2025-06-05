@@ -1,0 +1,914 @@
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\web.config
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\appsettings.bundles.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\libman.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\package-lock.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\package.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\sergen.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tsconfig.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tslint.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\appsettings.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.staticwebassets.runtime.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.exe
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.deps.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.runtimeconfig.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.pdb
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\netstandard.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Console.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\CorePush.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Dapper.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\EPPlus.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FastMember.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\MailKit.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\MimeKit.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NUglify.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Assets.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Data.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Entity.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Services.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Scripts.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\WebEssentials.AspNetCore.Pwa.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.csproj.AssemblyReference.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.AssemblyInfoInputs.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.AssemblyInfo.cs
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.csproj.CoreCompileInputs.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.MvcApplicationPartsAssemblyInfo.cs
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.MvcApplicationPartsAssemblyInfo.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.RazorAssemblyInfo.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.RazorAssemblyInfo.cs
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.VanilaProject.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.VanilaProject.web.props
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanilaProject.web.props
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanilaProject.web.props
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\scopedcss\bundle\VanilaProject.web.styles.css
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.csproj.CopyComplete
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\refint\VanilaProject.web.dll
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.pdb
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.genruntimeconfig.cache
+D:\Digisure\Project\New folder\ValinaProject\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\ref\VanilaProject.web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\web.config
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\appsettings.bundles.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\libman.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\package-lock.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\package.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\sergen.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tsconfig.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tslint.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.staticwebassets.runtime.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.exe
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.deps.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.runtimeconfig.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\VanilaProject.web.pdb
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\CorePush.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FastMember.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\MailKit.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NUglify.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Assets.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Data.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Entity.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Services.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Net.Web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Serenity.Scripts.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\WebEssentials.AspNetCore.Pwa.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.csproj.AssemblyReference.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.AssemblyInfoInputs.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.AssemblyInfo.cs
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.RazorAssemblyInfo.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.RazorAssemblyInfo.cs
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.VanilaProject.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.VanilaProject.web.props
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanilaProject.web.props
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanilaProject.web.props
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\scopedcss\bundle\VanilaProject.web.styles.css
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaPr.7CC72FAD.Up2Date
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\refint\VanilaProject.web.dll
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.web.pdb
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\VanilaProject.Web.genruntimeconfig.cache
+C:\Users\Ashwani\Documents\SerenityData\VanilaProject\VanilaProject.Web\obj\Debug\net6.0\ref\VanilaProject.web.dll

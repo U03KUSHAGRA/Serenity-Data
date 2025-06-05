@@ -1,0 +1,31 @@
+From:
+Date: Fri, 23 May 2025 15:23:05 +0530
+Subject: Activate Your SerenityData Account
+Message-Id: <T5FR4JZH8QU4.Z8DSLHZDR52G1@laptop-advaita>
+To: ua.kushagra@bhu.ac.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+    <title>Activate your SerenityData account</title>
+	<meta name="theme-color" content="#f69435" />
+	<link rel="manifest" href="/manifest.webmanifest" />
+</head>
+<body>
+    <p>Kushagra,</p>
+
+    <p>We received a request to create a new account on SerenityData with your e-mail address.</p>
+
+    <p>Click the link below to activate your account:</p>
+
+    <p><a href="Account/Activate?t=CfDJ8FpyWbwqQIlGqpEkLm5%2F0FKIM87hKFM%2Byl75PKRFuX6X0N%2BclHjIj68Gg1%2Ftbc3EUaMpohYZzFkZbvjB%2BcHJAUlCURrYbvXPz%2FWWoy7l2PnfTQPvEa5p0Po7WIep%2BwTKsA%3D%3D">Account/Activate?t=CfDJ8FpyWbwqQIlGqpEkLm5%2F0FKIM87hKFM%2Byl75PKRFuX6X0N%2BclHjIj68Gg1%2Ftbc3EUaMpohYZzFkZbvjB%2BcHJAUlCURrYbvXPz%2FWWoy7l2PnfTQPvEa5p0Po7WIep%2BwTKsA%3D%3D</a></p>
+
+    <p>If it wasn't you who requested this, you can ignore this email.</p>
+
+    Thanks,
+    The "SerenityData" Team
+
+	<script nws-csp-add-nonce='true'>'serviceWorker'in navigator&&navigator.serviceWorker.register('/serviceworker', { scope: '/' })</script></body>
+</html>

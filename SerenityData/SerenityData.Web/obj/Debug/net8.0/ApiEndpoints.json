@@ -1,0 +1,1112 @@
+[
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "AddCustomerAddress",
+    "RelativePath": "Api/AddCustomerAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CustomerAddressRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "AddToCart",
+    "RelativePath": "Api/AddToCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestAddToCart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "AddWishlist",
+    "RelativePath": "Api/AddWishlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.AddWishlistRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "BranchStock",
+    "RelativePath": "Api/BranchStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchStockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "ChangePassword",
+    "RelativePath": "Api/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.PasswordChangeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CheckMobileDevice",
+    "RelativePath": "Api/CheckMobileDevice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.MobileDeviceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateBranch",
+    "RelativePath": "Api/CreateBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateBranchArea",
+    "RelativePath": "Api/CreateBranchArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateChemicalComposition",
+    "RelativePath": "Api/CreateChemicalComposition",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ChemicalCompositionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateCity",
+    "RelativePath": "Api/CreateCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateCityArea",
+    "RelativePath": "Api/CreateCityArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateCustomer",
+    "RelativePath": "Api/CreateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateItem",
+    "RelativePath": "Api/CreateItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateItemCategory",
+    "RelativePath": "Api/CreateItemCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemCategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateItemType",
+    "RelativePath": "Api/CreateItemType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateManufacturingCompany",
+    "RelativePath": "Api/CreateManufacturingCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ManufacturingCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateProductType",
+    "RelativePath": "Api/CreateProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ProductTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "CreateState",
+    "RelativePath": "Api/CreateState",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.StateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteBranch",
+    "RelativePath": "Api/DeleteBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteBranchArea",
+    "RelativePath": "Api/DeleteBranchArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteChemicalComposition",
+    "RelativePath": "Api/DeleteChemicalComposition",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ChemicalCompositionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteCity",
+    "RelativePath": "Api/DeleteCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteCityArea",
+    "RelativePath": "Api/DeleteCityArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteItem",
+    "RelativePath": "Api/DeleteItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteItemCategory",
+    "RelativePath": "Api/DeleteItemCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemCategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteItemType",
+    "RelativePath": "Api/DeleteItemType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteManufacturingCompany",
+    "RelativePath": "Api/DeleteManufacturingCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ManufacturingCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeletePoductType",
+    "RelativePath": "Api/DeleteProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ProductTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "DeleteState",
+    "RelativePath": "Api/DeleteState",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.StateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "ForgotPassword",
+    "RelativePath": "Api/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ForgotPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllArea",
+    "RelativePath": "Api/GetAllArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetAllArea",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllBanner",
+    "RelativePath": "Api/GetAllBanner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllBestSeller",
+    "RelativePath": "Api/GetAllBestSeller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllCity",
+    "RelativePath": "Api/GetAllCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetAllCity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllCustomerAddresses",
+    "RelativePath": "Api/GetAllCustomerAddresses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.GetAllCustomerAddressesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllItem",
+    "RelativePath": "Api/GetAllItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllItemByProductTypeAndCategory",
+    "RelativePath": "Api/GetAllItemByProductTypeAndCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemByProductTypeAndCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllItemCategory",
+    "RelativePath": "Api/GetAllItemCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllItemCategoryByProductType",
+    "RelativePath": "Api/GetAllItemCategoryByProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CategoryDataByProductType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllItemType",
+    "RelativePath": "Api/GetAllItemType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllPages",
+    "RelativePath": "Api/GetAllPages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetAllPage",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllProductType",
+    "RelativePath": "Api/GetAllProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllState",
+    "RelativePath": "Api/GetAllState",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetAllWishlist",
+    "RelativePath": "Api/GetAllWishlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.WishlistRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetBrandWiseItem",
+    "RelativePath": "Api/GetBrandWiseItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestBrandWiseItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetCartList",
+    "RelativePath": "Api/GetCartList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetCartList",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetCategoryWiseItem",
+    "RelativePath": "Api/GetCategoryWiseItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestItemCategoryWiseItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetItemDetail",
+    "RelativePath": "Api/GetItemDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestItemDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetOrder",
+    "RelativePath": "Api/GetOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetOrder",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetOrderDetail",
+    "RelativePath": "Api/GetOrderDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestGetOrderDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetProductTypeWiseBrand",
+    "RelativePath": "Api/GetProductTypeWiseBrand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestProductTypeWiseBrand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetProductTypeWiseCategory",
+    "RelativePath": "Api/GetProductTypeWiseCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestProductTypeWiseCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "GetSearchItem",
+    "RelativePath": "Api/GetSearchItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestSearchItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "ItemStock",
+    "RelativePath": "Api/ItemStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemStockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "Login",
+    "RelativePath": "Api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "OrderPlaced",
+    "RelativePath": "Api/OrderPlaced",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestOrderPlaced",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "RemoveCart",
+    "RelativePath": "Api/RemoveCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestRemoveCart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "RemoveCustomerAddress",
+    "RelativePath": "Api/RemoveCustomerAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CustomerAddressUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "RemoveWishlist",
+    "RelativePath": "Api/RemoveWishlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RemoveWishlistRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateBranch",
+    "RelativePath": "Api/UpdateBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateBranchArea",
+    "RelativePath": "Api/UpdateBranchArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.BranchAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateCart",
+    "RelativePath": "Api/UpdateCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.RequestUpdateCart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateChemicalComposition",
+    "RelativePath": "Api/UpdateChemicalComposition",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ChemicalCompositionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateCity",
+    "RelativePath": "Api/UpdateCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateCityArea",
+    "RelativePath": "Api/UpdateCityArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CityAreaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateCustomerAddress",
+    "RelativePath": "Api/UpdateCustomerAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.CustomerAddressUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateItem",
+    "RelativePath": "Api/UpdateItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateItemCategory",
+    "RelativePath": "Api/UpdateItemCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemCategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateItemType",
+    "RelativePath": "Api/UpdateItemType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ItemTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateManufacturingCompany",
+    "RelativePath": "Api/UpdateManufacturingCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ManufacturingCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateProductType",
+    "RelativePath": "Api/UpdateProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.ProductTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerenityData.Web.Modules.Api.ApiController",
+    "Method": "UpdateState",
+    "RelativePath": "Api/UpdateState",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SerenityData.Web.Modules.Api.StateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

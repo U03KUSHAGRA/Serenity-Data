@@ -1,0 +1,504 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[63]
+      User profile is available. Using 'C:\Users\uakus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/ - -
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\uakus\Progressive\Developer\SerenityData\SerenityData\SerenityData\SerenityData.Web
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.Common.Pages.DashboardController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ChallengeResult[1]
+      Executing ChallengeResult with authentication schemes ().
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[12]
+      AuthenticationScheme: Cookies was challenged.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web) in 59.5532ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/Account/Login/?ReturnUrl=%2F - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/ - - - 302 - - 914.5070ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Login(System.String) on controller SerenityData.Membership.Pages.AccountController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/Membership/Account/AccountLogin.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/Membership/Account/AccountLogin.cshtml executed in 16701.0362ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web) in 16725.2931ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/Account/Login/?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 16782.9039ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=638844489839136027 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/FormBundle.js?v=638844489839163021 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/TemplateBundle.js?v=638844489839163275 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/TemplateBundle.js?v=638844489839163275 - - - 200 - text/javascript;+charset=utf-8 22.8809ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/LocalText.Site.en-US.Public.js?v=638844489839253198 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/LocalText.Site.en-US.Public.js?v=638844489839253198 - - - 200 - text/javascript;+charset=utf-8 86.9639ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=638844489839136027 - - - 200 - text/javascript;+charset=utf-8 281.7243ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/FormBundle.js?v=638844489839163021 - - - 200 - text/javascript;+charset=utf-8 283.3621ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 173.1453ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/favicon.ico - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/favicon.ico - - - 404 - - 9.4725ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 36.491ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 117.9719ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Account/Login application/json 46
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Serenity.Services.Result`1[Serenity.Services.ServiceResponse] Login(SerenityData.Membership.LoginRequest, SerenityData.Administration.IUserPasswordValidator, Serenity.Abstractions.IUserRetrieveService, Serenity.Extensions.IEmailSender) on controller SerenityData.Membership.Pages.AccountController (VanilaProject.web).
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[10]
+      AuthenticationScheme: Cookies signed in.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web) in 4540.2137ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Membership.Pages.AccountController.Login (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Account/Login application/json 46 - 200 - application/json 4596.6850ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/ - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.Common.Pages.DashboardController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/Common/Dashboard/DashboardIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/Common/Dashboard/DashboardIndex.cshtml executed in 6068.3701ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web) in 8275.0208ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.Common.Pages.DashboardController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=2fqdZ0O6Nj1J2hqR9LVxNA - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/ - - - 200 - text/html;+charset=utf-8 8415.8138ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/ColumnsBundle.js?v=2fqdZ0O6Nj1J2hqR9LVxNA - - - 200 - text/javascript;+charset=utf-8 73.8265ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 123.8303ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DashboardData/SalesData - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DashboardData/CategoryData - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'DashboardDataController.SalesData (VanilaProject.web)'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'DashboardDataController.CategoryData (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "SalesData", controller = "DashboardData"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult SalesData() on controller DashboardDataController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "CategoryData", controller = "DashboardData"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CategoryData() on controller DashboardDataController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.NewtonsoftJson.NewtonsoftJsonResultExecutor[1]
+      Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Dapper.SqlMapper+DapperRow, Dapper, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action DashboardDataController.SalesData (VanilaProject.web) in 409.4417ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'DashboardDataController.SalesData (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DashboardData/SalesData - - - 200 - application/json;+charset=utf-8 505.7195ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 17.5985ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 84.9601ms
+info: Microsoft.AspNetCore.Mvc.NewtonsoftJson.NewtonsoftJsonResultExecutor[1]
+      Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Dapper.SqlMapper+DapperRow, Dapper, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action DashboardDataController.CategoryData (VanilaProject.web) in 1793.8471ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'DashboardDataController.CategoryData (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DashboardData/CategoryData - - - 200 - application/json;+charset=utf-8 1868.3270ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/ActiveUsers - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.ActiveUsersController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "ActiveUsers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.ActiveUsersController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/ActiveUsers/ActiveUsersIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/ActiveUsers/ActiveUsersIndex.cshtml executed in 1129.3136ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.ActiveUsersController.Index (VanilaProject.web) in 1169.516ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.ActiveUsersController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/ActiveUsers - - - 200 - text/html;+charset=utf-8 1256.7492ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.3446ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844490327526449 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844490327526449 - - - 200 - text/javascript;+charset=utf-8 259.6644ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/ActiveUsers/List application/json 67
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.ActiveUsersController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "ActiveUsers"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.ActiveUsersRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.IActiveUsersListHandler) on controller SerenityData.SerenityData.Endpoints.ActiveUsersController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.ActiveUsersRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.ActiveUsersController.List (VanilaProject.web) in 573.2172ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.ActiveUsersController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/ActiveUsers/List application/json 67 - 200 95 application/json;+charset=utf-8 665.3183ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 13.8023ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 68.8002ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/Categories - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.CategoriesController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Categories"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.CategoriesController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/Categories/CategoriesIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/Categories/CategoriesIndex.cshtml executed in 744.5215ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.CategoriesController.Index (VanilaProject.web) in 751.9456ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.CategoriesController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/Categories - - - 200 - text/html;+charset=utf-8 888.6396ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 18.9996ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844491469694098 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844491469694098 - - - 200 - text/javascript;+charset=utf-8 5.6203ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Categories/List application/json 78
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.CategoriesController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "Categories"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.CategoriesRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.ICategoriesListHandler) on controller SerenityData.SerenityData.Endpoints.CategoriesController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.CategoriesRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.CategoriesController.List (VanilaProject.web) in 384.3287ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.CategoriesController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Categories/List application/json 78 - 200 95 application/json;+charset=utf-8 431.8636ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 6.3807ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 37.7835ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/Products - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.ProductsController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.ProductsController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/Products/ProductsIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/Products/ProductsIndex.cshtml executed in 1343.9231ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.ProductsController.Index (VanilaProject.web) in 1351.1656ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.ProductsController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/Products - - - 200 - text/html;+charset=utf-8 1431.7083ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.8810ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844492079756093 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844492079756093 - - - 200 - text/javascript;+charset=utf-8 10.8349ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Products/List application/json 134
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.ProductsController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "Products"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.ProductsRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.IProductsListHandler) on controller SerenityData.SerenityData.Endpoints.ProductsController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.ProductsRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.ProductsController.List (VanilaProject.web) in 969.7087ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.ProductsController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Products/List application/json 134 - 200 95 application/json;+charset=utf-8 1019.9741ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 10.3693ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 62.5571ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/Software - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.SoftwareController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Software"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.SoftwareController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/Software/SoftwareIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/Software/SoftwareIndex.cshtml executed in 748.9677ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.SoftwareController.Index (VanilaProject.web) in 755.2753ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.SoftwareController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/Software - - - 200 - text/html;+charset=utf-8 886.0187ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.5979ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844493282544628 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844493282544628 - - - 200 - text/javascript;+charset=utf-8 7.1499ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Software/List application/json 91
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.SoftwareController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "Software"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.SoftwareRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.ISoftwareListHandler) on controller SerenityData.SerenityData.Endpoints.SoftwareController (VanilaProject.web).
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 13.4738ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 57.1131ms
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.SoftwareRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.SoftwareController.List (VanilaProject.web) in 1969.8254ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.SoftwareController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Software/List application/json 91 - 200 95 application/json;+charset=utf-8 2001.7390ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/StockNames - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.StockNamesController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "StockNames"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.StockNamesController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/StockNames/StockNamesIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/StockNames/StockNamesIndex.cshtml executed in 720.1591ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.StockNamesController.Index (VanilaProject.web) in 767.5441ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.StockNamesController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/StockNames - - - 200 - text/html;+charset=utf-8 820.2497ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844493941306499 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844493941306499 - - - 200 - text/javascript;+charset=utf-8 9.2503ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 115.0962ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/StockNames/List application/json 72
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.StockNamesController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "StockNames"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.StockNamesRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.IStockNamesListHandler) on controller SerenityData.SerenityData.Endpoints.StockNamesController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.StockNamesRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.StockNamesController.List (VanilaProject.web) in 459.4596ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.StockNamesController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/StockNames/List application/json 72 - 200 95 application/json;+charset=utf-8 487.6285ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 5.7392ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 32.6806ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/StockTransactions - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.StockTransactionsController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "StockTransactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.StockTransactionsController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/StockTransactions/StockTransactionsIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/StockTransactions/StockTransactionsIndex.cshtml executed in 980.5783ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.StockTransactionsController.Index (VanilaProject.web) in 989.3474ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.StockTransactionsController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/StockTransactions - - - 200 - text/html;+charset=utf-8 1092.9216ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.1823ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844494564244431 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844494564244431 - - - 200 - text/javascript;+charset=utf-8 8.1037ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/StockTransactions/List application/json 112
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.StockTransactionsController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "StockTransactions"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.StockTransactionsRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.IStockTransactionsListHandler) on controller SerenityData.SerenityData.Endpoints.StockTransactionsController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenity.Services.ListResponse`1[[SerenityData.SerenityData.StockTransactionsRow, VanilaProject.web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Endpoints.StockTransactionsController.List (VanilaProject.web) in 382.5246ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Endpoints.StockTransactionsController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:7007/Services/SerenityData/StockTransactions/List application/json 112 - 200 95 application/json;+charset=utf-8 431.9464ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/serviceworker - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "ServiceWorker", controller = "Pwa"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ServiceWorkerAsync() on controller WebEssentials.AspNetCore.Pwa.PwaController (WebEssentials.AspNetCore.Pwa).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa) in 8.962ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebEssentials.AspNetCore.Pwa.PwaController.ServiceWorkerAsync (WebEssentials.AspNetCore.Pwa)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/serviceworker - - - 200 4806 application/javascript;+charset=utf-8 44.5904ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/SerenityData/Suppliers - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Pages.SuppliersController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Suppliers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller SerenityData.SerenityData.Pages.SuppliersController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view ~/Modules/SerenityData/Suppliers/SuppliersIndex.cshtml.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view ~/Modules/SerenityData/Suppliers/SuppliersIndex.cshtml executed in 600.4697ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[2]
+      Executed action SerenityData.SerenityData.Pages.SuppliersController.Index (VanilaProject.web) in 621.9175ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'SerenityData.SerenityData.Pages.SuppliersController.Index (VanilaProject.web)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/SerenityData/Suppliers - - - 200 - text/html;+charset=utf-8 670.7784ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844496433209587 - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/DynJS.axd/RemoteData.UserData.js?638844496433209587 - - - 200 - text/javascript;+charset=utf-8 5.6519ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:7007/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.8066ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:7007/Services/SerenityData/Suppliers/List application/json 78
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'SerenityData.SerenityData.Endpoints.SuppliersController.List (VanilaProject.web)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[3]
+      Route matched with {action = "List", controller = "Suppliers"}. Executing controller action with signature Serenity.Services.ListResponse`1[SerenityData.SerenityData.SuppliersRow] List(System.Data.IDbConnection, Serenity.Services.ListRequest, SerenityData.SerenityData.ISuppliersListHandler) on controller SerenityData.SerenityData.Endpoints.SuppliersController (VanilaProject.web).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'Serenit
