@@ -4,10 +4,10 @@ A **role-based access control (RBAC)** application built with **Serenity** and *
 
 ## 🔐 Login Portals
 
-1. ** Inventory Portal**  
+1.  Inventory Portal  
    Manage products, stock levels, and operations.
 
-2. ** Analytics Portal**  
+2.  Analytics Portal  
    Visualize and track ERP and business softwares.
 
 ## 🧩 Features
@@ -105,6 +105,14 @@ A **role-based access control (RBAC)** application built with **Serenity** and *
 
 ## 📘 Usage
 
--  **Inventory Portal:** Log in to manage products, stock, and business operations.  
--  **Analytics Portal:** Log in to monitor ERP performance and visualize key data.
+- **Inventory Portal**  
+  Log in to manage products, stock, and business operations.  
+  - **Username:** `Inventory`  
+  - **Password:** `Inventory@123`
+
+- **Analytics Portal**  
+  Log in to monitor ERP performance and visualize key data.  
+  - **Username:** `Analytics`  
+  - **Password:** `Analytics@123`
+
 
