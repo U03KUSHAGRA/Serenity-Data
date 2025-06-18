@@ -108,11 +108,11 @@ A **role-based access control (RBAC)** application built with **Serenity** and *
 - **Inventory Portal**  
   Log in to manage products, stock, and business operations.  
   - **Username:** `Inventory`  
-  - **Password:** `Inventory@123`
+  - **Password:** `Digisure@123`
 
 - **Analytics Portal**  
   Log in to monitor ERP performance and visualize key data.  
   - **Username:** `Analytics`  
-  - **Password:** `Analytics@123`
+  - **Password:** `Digisure@123`
 
 
